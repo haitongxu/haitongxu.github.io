@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>6 | HAITONG XU</title>
+    <link>http://haitongxu.github.io/publication-type/6/</link>
+      <atom:link href="http://haitongxu.github.io/publication-type/6/index.xml" rel="self" type="application/rss+xml" />
+    <description>6</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 24 May 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://haitongxu.github.io/media/icon_hu59decf2028e2f294cd0310dadc234f37_153665_512x512_fill_lanczos_center_3.png</url>
+      <title>6</title>
+      <link>http://haitongxu.github.io/publication-type/6/</link>
+    </image>
+    
+    <item>
+      <title>Adaptive nonlinear vessel steering modelling using time-sequence incremental and decremental LS-SVM</title>
+      <link>http://haitongxu.github.io/publication/xu2022adaptive/</link>
+      <pubDate>Tue, 24 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://haitongxu.github.io/publication/xu2022adaptive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal parameter estimation of empirical manoeuvring model using free-running ship tests</title>
+      <link>http://haitongxu.github.io/publication/ana2020optimal/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://haitongxu.github.io/publication/ana2020optimal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Manoeuvring test for a self-running ship model in various water depth conditions</title>
+      <link>http://haitongxu.github.io/publication/hinostroza2019manoeuvring/</link>
+      <pubDate>Thu, 22 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>http://haitongxu.github.io/publication/hinostroza2019manoeuvring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A hybrid controller design for ship autopilot based on free-running model test</title>
+      <link>http://haitongxu.github.io/publication/xu2017hybrid/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>http://haitongxu.github.io/publication/xu2017hybrid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experimental and numerical simulations of zig-zag manoeuvres of a self-running ship model</title>
+      <link>http://haitongxu.github.io/publication/hinostroza2018experimental/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>http://haitongxu.github.io/publication/hinostroza2018experimental/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Path-planning and path-following control system for autonomous surface vessel</title>
+      <link>http://haitongxu.github.io/publication/hinostroza2018path/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>http://haitongxu.github.io/publication/hinostroza2018path/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Waypointfollowing for a marine surface ship model based on vector field guidance law</title>
+      <link>http://haitongxu.github.io/publication/xu2016waypointfollowing/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>http://haitongxu.github.io/publication/xu2016waypointfollowing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An optimized path following algorithm for a surface ship model</title>
+      <link>http://haitongxu.github.io/publication/xu2015optimized/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>http://haitongxu.github.io/publication/xu2015optimized/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

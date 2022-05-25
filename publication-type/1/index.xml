@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | HAITONG XU</title>
+    <link>http://haitongxu.github.io/publication-type/1/</link>
+      <atom:link href="http://haitongxu.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 22 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://haitongxu.github.io/media/icon_hu59decf2028e2f294cd0310dadc234f37_153665_512x512_fill_lanczos_center_3.png</url>
+      <title>1</title>
+      <link>http://haitongxu.github.io/publication-type/1/</link>
+    </image>
+    
+    <item>
+      <title>Time-Varying Vector Field Guidance Law for Path Following and Obstacle Avoidance for Underactuated Autonomous Vehicles</title>
+      <link>http://haitongxu.github.io/publication/xu2019time/</link>
+      <pubDate>Mon, 22 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>http://haitongxu.github.io/publication/xu2019time/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Motion Planning, Guidance and Control System for Autonomous Surface Vessel</title>
+      <link>http://haitongxu.github.io/publication/hinostroza2018motion/</link>
+      <pubDate>Fri, 28 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>http://haitongxu.github.io/publication/hinostroza2018motion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parameters estimation of nonlinear manoeuvring model for marine surface ship based on PMM tests</title>
+      <link>http://haitongxu.github.io/publication/xu2018parameters/</link>
+      <pubDate>Fri, 28 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>http://haitongxu.github.io/publication/xu2018parameters/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real-Time Parameter Estimation of a Nonlinear Vessel Steering Model Using a Support Vector Machine</title>
+      <link>http://haitongxu.github.io/publication/xu2018steering/</link>
+      <pubDate>Fri, 28 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>http://haitongxu.github.io/publication/xu2018steering/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

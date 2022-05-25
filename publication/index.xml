@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | HAITONG XU</title>
+    <link>http://haitongxu.github.io/publication/</link>
+      <atom:link href="http://haitongxu.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 24 May 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://haitongxu.github.io/media/icon_hu59decf2028e2f294cd0310dadc234f37_153665_512x512_fill_lanczos_center_3.png</url>
+      <title>Publications</title>
+      <link>http://haitongxu.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>Adaptive nonlinear vessel steering modelling using time-sequence incremental and decremental LS-SVM</title>
+      <link>http://haitongxu.github.io/publication/xu2022adaptive/</link>
+      <pubDate>Tue, 24 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://haitongxu.github.io/publication/xu2022adaptive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convergence analysis of hydrodynamic coefficients estimation using regularization filter functions on free-running ship model tests with noise</title>
+      <link>http://haitongxu.github.io/publication/xu2022converge/</link>
+      <pubDate>Mon, 28 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>http://haitongxu.github.io/publication/xu2022converge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Motion planning, guidance and control system for autonomous surface vessel</title>
+      <link>http://haitongxu.github.io/publication/hinostroza2020motion/</link>
+      <pubDate>Tue, 14 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://haitongxu.github.io/publication/hinostroza2020motion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Parameter Estimation of an Empirical Manoeuvring Model Using Free-Running Model Tests</title>
+      <link>http://haitongxu.github.io/publication/ana2021robust/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://haitongxu.github.io/publication/ana2021robust/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal parameter estimation of empirical manoeuvring model using free-running ship tests</title>
+      <link>http://haitongxu.github.io/publication/ana2020optimal/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://haitongxu.github.io/publication/ana2020optimal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modified Vector Field Path-Following Control System for an Underactuated Autonomous Surface Ship Model in the Presence of Static Obstacles</title>
+      <link>http://haitongxu.github.io/publication/xu2021modified/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://haitongxu.github.io/publication/xu2021modified/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L1 adaptive backstepping control for path-following of underactuated marine surface ships</title>
+      <link>http://haitongxu.github.io/publication/xu2021l1/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://haitongxu.github.io/publication/xu2021l1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experimental results of the cooperative operation of autonomous surface vehicles navigating in complex marine environment</title>
+      <link>http://haitongxu.github.io/publication/hinostroza2020experimental/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://haitongxu.github.io/publication/hinostroza2020experimental/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kernel-based support vector regression for nonparametric modeling of ship maneuvering motion</title>
+      <link>http://haitongxu.github.io/publication/wang2020kernel/</link>
+      <pubDate>Sun, 15 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>http://haitongxu.github.io/publication/wang2020kernel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vector field guidance law for curved path following of an underactuated autonomous ship model</title>
+      <link>http://haitongxu.github.io/publication/xu2020vector/</link>
+      <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>http://haitongxu.github.io/publication/xu2020vector/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uniformly semiglobally exponential stability of vector field guidance law and autopilot for path-following</title>
+      <link>http://haitongxu.github.io/publication/xu2020uniformly/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>http://haitongxu.github.io/publication/xu2020uniformly/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparing generic and vectorial nonlinear manoeuvring models and parameter estimation using optimal truncated least square support vector machine</title>
+      <link>http://haitongxu.github.io/publication/xu2020comparing/</link>
+      <pubDate>Tue, 28 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>http://haitongxu.github.io/publication/xu2020comparing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Truncated least square support vector machine for parameter estimation of a nonlinear manoeuvring model based on PMM tests</title>
+      <link>http://haitongxu.github.io/publication/xu2020truncated/</link>
+      <pubDate>Tue, 28 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>http://haitongxu.github.io/publication/xu2020truncated/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experimental investigation of shallow water effect on vessel steering model using system identification method</title>
+      <link>http://haitongxu.github.io/publication/xu2020experimental/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>http://haitongxu.github.io/publication/xu2020experimental/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Manoeuvring modelling of a containership in shallow water based on optimal truncated nonlinear kernel-based least square support vector machine and quantum-inspired evolutionary algorithm</title>
+      <link>http://haitongxu.github.io/publication/xu2020manoeuvring/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://haitongxu.github.io/publication/xu2020manoeuvring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Use of AIS data for guidance and control of path-following autonomous vessels</title>
+      <link>http://haitongxu.github.io/publication/xu2019use/</link>
+      <pubDate>Sun, 15 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>http://haitongxu.github.io/publication/xu2019use/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real-Time Parameter Estimation of a Nonlinear Vessel Steering Model Using a Support Vector Machine</title>
+      <link>http://haitongxu.github.io/publication/xu2019real/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>http://haitongxu.github.io/publication/xu2019real/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hydrodynamic coefficient estimation for ship manoeuvring in shallow water using an optimal truncated LS-SVM</title>
+      <link>http://haitongxu.github.io/publication/xu2019hydrodynamic/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>http://haitongxu.github.io/publication/xu2019hydrodynamic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Manoeuvring test for a self-running ship model in various water depth conditions</title>
+      <link>http://haitongxu.github.io/publication/hinostroza2019manoeuvring/</link>
+      <pubDate>Thu, 22 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>http://haitongxu.github.io/publication/hinostroza2019manoeuvring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time-Varying Vector Field Guidance Law for Path Following and Obstacle Avoidance for Underactuated Autonomous Vehicles</title>
+      <link>http://haitongxu.github.io/publication/xu2019time/</link>
+      <pubDate>Mon, 22 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>http://haitongxu.github.io/publication/xu2019time/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cooperative operation of autonomous surface vehicles for maintaining formation in complex marine environment</title>
+      <link>http://haitongxu.github.io/publication/hinostroza2019cooperative/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>http://haitongxu.github.io/publication/hinostroza2019cooperative/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uncertainty analysis of the hydrodynamic coefficients estimation of a nonlinear manoeuvring model based on planar motion mechanism tests</title>
+      <link>http://haitongxu.github.io/publication/xu2019uncertainty/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>http://haitongxu.github.io/publication/xu2019uncertainty/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An optimized energy-efficient path following algorithm for underactuated marine surface ship model</title>
+      <link>http://haitongxu.github.io/publication/xu2018optimized/</link>
+      <pubDate>Fri, 28 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>http://haitongxu.github.io/publication/xu2018optimized/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Motion Planning, Guidance and Control System for Autonomous Surface Vessel</title>
+      <link>http://haitongxu.github.io/publication/hinostroza2018motion/</link>
+      <pubDate>Fri, 28 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>http://haitongxu.github.io/publication/hinostroza2018motion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parameters estimation of nonlinear manoeuvring model for marine surface ship based on PMM tests</title>
+      <link>http://haitongxu.github.io/publication/xu2018parameters/</link>
+      <pubDate>Fri, 28 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>http://haitongxu.github.io/publication/xu2018parameters/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real-Time Parameter Estimation of a Nonlinear Vessel Steering Model Using a Support Vector Machine</title>
+      <link>http://haitongxu.github.io/publication/xu2018steering/</link>
+      <pubDate>Fri, 28 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>http://haitongxu.github.io/publication/xu2018steering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimation of hydrodynamic coefficients of a nonlinear manoeuvring Mathematical model with free-running ship model tests</title>
+      <link>http://haitongxu.github.io/publication/xu2018estimation/</link>
+      <pubDate>Sat, 28 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>http://haitongxu.github.io/publication/xu2018estimation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis of electrical drive speed control limitations of a power take-off system for wave energy converters</title>
+      <link>http://haitongxu.github.io/publication/gaspar2017analysis/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>http://haitongxu.github.io/publication/gaspar2017analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A hybrid controller design for ship autopilot based on free-running model test</title>
+      <link>http://haitongxu.github.io/publication/xu2017hybrid/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>http://haitongxu.github.io/publication/xu2017hybrid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experimental and numerical simulations of zig-zag manoeuvres of a self-running ship model</title>
+      <link>http://haitongxu.github.io/publication/hinostroza2018experimental/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>http://haitongxu.github.io/publication/hinostroza2018experimental/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Path-planning and path-following control system for autonomous surface vessel</title>
+      <link>http://haitongxu.github.io/publication/hinostroza2018path/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>http://haitongxu.github.io/publication/hinostroza2018path/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Waypointfollowing for a marine surface ship model based on vector field guidance law</title>
+      <link>http://haitongxu.github.io/publication/xu2016waypointfollowing/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>http://haitongxu.github.io/publication/xu2016waypointfollowing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Speed control of oil-hydraulic power take-off system for oscillating body type wave energy converters</title>
+      <link>http://haitongxu.github.io/publication/gaspar2016speed/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>http://haitongxu.github.io/publication/gaspar2016speed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vector field path following for surface marine vessel and parameter identification based on LS-SVM</title>
+      <link>http://haitongxu.github.io/publication/xu2016vector/</link>
+      <pubDate>Mon, 15 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>http://haitongxu.github.io/publication/xu2016vector/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An optimized path following algorithm for a surface ship model</title>
+      <link>http://haitongxu.github.io/publication/xu2015optimized/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>http://haitongxu.github.io/publication/xu2015optimized/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
