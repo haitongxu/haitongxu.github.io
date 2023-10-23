@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks | HAITONG XU</title>
+    <link>http://haitongxu.github.io/event/</link>
+      <atom:link href="http://haitongxu.github.io/event/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 08 Nov 2022 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://haitongxu.github.io/media/icon_hu59decf2028e2f294cd0310dadc234f37_153665_512x512_fill_lanczos_center_3.png</url>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>http://haitongxu.github.io/event/</link>
+    </image>
+    
+    <item>
+      <title>RENEW 2022</title>
+      <link>http://haitongxu.github.io/talk/renew-2022/</link>
+      <pubDate>Tue, 08 Nov 2022 13:00:00 +0000</pubDate>
+      <guid>http://haitongxu.github.io/talk/renew-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MARTECH 2022</title>
+      <link>http://haitongxu.github.io/talk/martech-2022/</link>
+      <pubDate>Tue, 24 May 2022 13:00:00 +0000</pubDate>
+      <guid>http://haitongxu.github.io/talk/martech-2022/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

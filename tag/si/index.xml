@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SI | HAITONG XU</title>
+    <link>http://haitongxu.github.io/tag/si/</link>
+      <atom:link href="http://haitongxu.github.io/tag/si/index.xml" rel="self" type="application/rss+xml" />
+    <description>SI</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 10 May 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://haitongxu.github.io/media/icon_hu59decf2028e2f294cd0310dadc234f37_153665_512x512_fill_lanczos_center_3.png</url>
+      <title>SI</title>
+      <link>http://haitongxu.github.io/tag/si/</link>
+    </image>
+    
+    <item>
+      <title>Special Issue &#34;Marine Dynamic Positioning System&#34;</title>
+      <link>http://haitongxu.github.io/project/jmse-si-dps/</link>
+      <pubDate>Tue, 10 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://haitongxu.github.io/project/jmse-si-dps/</guid>
+      <description>&lt;p&gt;Dear Colleagues,&lt;/p&gt;
+&lt;p style=&#39;text-align: justify;&#39;&gt; 
+Marine dynamic positioning system (DPS) has been widely employed in many floating vessels/platforms in the sea and is an important support technology for exploration and exploitation of oceanic resources. A DPS mainly consists of a position measurement system, control system, thrust allocation (TA) system and propulsion system. It is known that vessels/platforms equipped with a DPS use thrusters and main propellers to produce a desired thrust via azimuth/tunnel thrusters, as well as to control maneuvering. Thrust can compensate for environmental forces acting on the vessel/platform to maintain position and head as closely as required to some desired position in the horizontal plane. DPS has also become one of key technologies for Marine Autonomous Surface System.
+&lt;p&gt;This Special Issue will focus on recent developments in marine dynamic positioning system. Topics of interest include, but are not limited to:&lt;/p&gt;
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Advanced control strategy for DPS;&lt;/li&gt;
+&lt;li&gt;Thrust allocation method for DPS;&lt;/li&gt;
+&lt;li&gt;Low-level thruster controller for DPS;&lt;/li&gt;
+&lt;li&gt;Hydrodynamic performance analysis method for DPS;&lt;/li&gt;
+&lt;li&gt;Cooperative control for DPS;&lt;/li&gt;
+&lt;li&gt;Hybrid control for DPS;&lt;/li&gt;
+&lt;li&gt;Decision making strategy for DP vessels;&lt;/li&gt;
+&lt;li&gt;Case studies.
+Prof. Dr. Defeng Wu&lt;br&gt;
+Dr. Shengwen Xu&lt;br&gt;
+Dr. Haitong Xu&lt;br&gt;
+Guest Editors&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Special Issue &#34;Maritime Autonomous Vessels&#34;</title>
+      <link>http://haitongxu.github.io/project/jmse-si-mav/</link>
+      <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://haitongxu.github.io/project/jmse-si-mav/</guid>
+      <description>&lt;p&gt;Dear Colleagues,&lt;/p&gt;
+&lt;p style=&#39;text-align: justify;&#39;&gt; 
+Recent years have seen the rapid development of autonomous ships. The maritime industry is currently experiencing a disruptive change in technology through the increased development of advanced autonomy technologies leading to Maritime Autonomous Surface Ships (MASS), Unmanned Surface Vessels(USVs), Autonomous Underwater Vehicles (AUVs), underwater gliders, just to name a few. Automated vessel technology is rapidly transiting from the theoretical to the practical applications as the number and scope of unmanned vessels or autonomous ship projects increase around the globe. They have been widely used both in navy applications and even some commercial applications such as marine survey, coast patrol, inspection and operation of underwater production system. The most important reasons for the rapid development of autonomous vessels are safety concerns and economic benefit. Maritime accidents cause the loss of human lives, damage to the environment, and loss in the economy. The development towards autonomous marine ships will improve the situation greatly and are expected to become a cost-efficient alternative to conventional ships, improving the safety and environmental impact at sea.
+&lt;p&gt;The main goal of this special issue is to address the key challenges, thereby promoting research on marine autonomous ships. Topics of interest of this special issue include, but are not limited to, the following aspects:&lt;/p&gt;
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Intelligent and autonomous marine ships&lt;/li&gt;
+&lt;li&gt;Mathematical models for marine ships&lt;/li&gt;
+&lt;li&gt;AIS data analysis&lt;/li&gt;
+&lt;li&gt;Maritime safety and risk assessment for autonomous ships and respective regulations&lt;/li&gt;
+&lt;li&gt;Guidance, navigation and Control system design and applications&lt;/li&gt;
+&lt;li&gt;Path following, path planning, trajectory planning and automatic collison avoidace for marine ships&lt;/li&gt;
+&lt;li&gt;Machine learning methods (Least square, Regularization methods, Neural Networks, Kalman filter, SVM, etc.) and its application in marine autonomous ships&lt;/li&gt;
+&lt;li&gt;Measurements and experiments in relationship to the behaviour of ships&lt;/li&gt;
+&lt;li&gt;Sea trials and ship model tests&lt;/li&gt;
+&lt;li&gt;Data Acquisition system and multi-sensor data fusion&lt;/li&gt;
+&lt;li&gt;Multi-objective optimization design (evolutionary opt., swarm opt.)&lt;/li&gt;
+&lt;li&gt;Applications of autonomous vessles (MASS, ROVs, AUVs, USVs, underwater gliders, etc.) in * * environmental monitoring, mapping and surveillance, search and rescuing operations, habitat mapping, marine biology and geology, hydrographic explorations&lt;/li&gt;
+&lt;li&gt;Automatic berthing and unberthing&lt;/li&gt;
+&lt;li&gt;Automated onboard systems&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Dr. Haitong Xu&lt;br&gt;
+Dr. Lúcia Moreira&lt;br&gt;
+Prof. Dr. Carlos Guedes Soares&lt;br&gt;
+Guest Editors&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: http://haitongxu.github.io/sitemap.xml
