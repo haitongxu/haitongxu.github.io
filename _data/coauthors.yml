@@ -1,9 +1,9 @@
 "adams":
-  - firstname: ["Haitong Xu", "H. Xu", "H. T. Xu", "Hai Tong Xu"]
+  - firstname: ["Haitong", "H.", "H.T."]
     url: https://scholar.google.com/citations?user=zrsb6awAAAAJ&hl=en
 
-"podolsky":
-  - firstname: ["Carlos Guedes Soares", "C. Guedes Soares", "C. G. Soares"]
+"carlos":
+  - firstname: ["Carlos", "C.", "C. G.", "Carlos Guedes"]
     url: https://scholar.google.com/citations?user=WDJnwJ8AAAAJ&hl=en
 
 "rosen":
