@@ -1,10 +1,10 @@
 "adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+  - firstname: ["Haitong Xu", "H. Xu", "H. T. Xu", "Hai Tong Xu"]
+    url: https://scholar.google.com/citations?user=zrsb6awAAAAJ&hl=en
 
 "podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+  - firstname: ["Carlos Guedes Soares", "C. Guedes Soares", "C. G. Soares"]
+    url: https://scholar.google.com/citations?user=WDJnwJ8AAAAJ&hl=en
 
 "rosen":
   - firstname: ["Nathan", "N."]
