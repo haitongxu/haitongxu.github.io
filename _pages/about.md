@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Assistant Professor, <a href='http://www.centec.tecnico.ulisboa.pt/'>CENTEC</a>.  <a href='https://tecnico.ulisboa.pt/'>Instituto Superior Técnico</a>, University of Lisbon.
 
 profile:
   align: left
