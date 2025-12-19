@@ -28,6 +28,7 @@ latest_posts:
 ---
 
 I am an Assistant Professor at Instituto Superior Técnico, and seniar researcher at CENTEC. I am the leader of the Autonomous Ship Lab at CENTEC, where my work focuses on autonomous ships, particularly navigation, control systems, ship manoeuvring, and experimental testing. I lead and support research on autonomous ship technologies, participate in European and national research projects, supervise PhD research, and actively contribute to the scientific community.
+
 I am the Co-Leader of Work Group 5 (WG5) for the COST Action Project, [DeWaTra](https://dewatra.eu/), PI of the FCT project, and I was involved in 7 European and FCT R&D projects, such as SHOPERA and MARINET supported by FP7, ROUTING supported by Horizon 2020, M&MSHIPS, OBSERVA.FISH and NAVAD, funded by FCT.
 I visited other European universities and instutie, such as AMOS, [Norwegian University of Science and Technology](https://www.ntnu.edu/), [TECNALIA](https://www.tecnalia.com/en), [National Laboratory for Civil Engineering](https://www.lnec.pt/), and [Escola Naval](https://escolanaval.marinha.pt/pt).
 
