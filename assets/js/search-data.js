@@ -424,8 +424,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-invited-to-join-the-dewatra-emoji-sparkles-smile",
+          title: 'Invited to join the DEWATRA emoji! :sparkles: :smile:',
           description: "",
           section: "News",},{id: "news-attend-the-18th-international-collegiate-snow-sculpture-contest-sparkles-smile-snowman",
           title: 'Attend the 18th International Collegiate Snow Sculpture Contest :sparkles: :smile: :snowman:',
