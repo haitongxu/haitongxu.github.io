@@ -1,5 +1,5 @@
 ---
-layout: prototype
+layout: profiles
 permalink: /AutoShip/
 title: AutoShip
 description: Autonomous Ship Prototype at Autonomous Ship Lab.
