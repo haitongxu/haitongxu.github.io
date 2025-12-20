@@ -101,7 +101,7 @@ profiles:
   - category: Former Lab Members
     name: Paulo Pires Silva
     role: PhD 2024.09-2025.08
-    topic: Manoeuvring modelling based sea trials
+    topic: Manoeuvring modelling using sea trials
     image: /people/Paulo-Pires-Silva.jpg
     # bio: Working at Dalian Martime Unversity  
   

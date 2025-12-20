@@ -11,24 +11,38 @@ Announcements and news can be much longer than just quick inline posts. In fact,
 
 ---
 
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
-
-#### Hipster list
+#### Workshops
 
 <ul>
-    <li>brunch</li>
-    <li>fixie</li>
-    <li>raybans</li>
-    <li>messenger bag</li>
+    <li>COST Academy – Young researcher training, Brussels, Belgium, 20, Oct., 2025.</li>
+    <li>Shaping the Future, Instituto Superior Técnico, Lisbon, Portugual, 30, June- 2 July, 2025.</li>
+    <li>COST Academy – Leadership workshop, Brussels, Belgium, 10, Sep. 2024.</li>
+    
 </ul>
-
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
 
 ---
 
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
+#### Community
 
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-> —Anais Nin
+<ul>
+    <li>International Ship and Offshore Structures Congress (ISSC2028) V.7: Structural Assessment During Operations.</li>
+    <li>IEEE Oceanic Engineering Society member</li>
+    <li>IEEE Member.</li>
+    
+</ul>
 
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
+---
+
+#### Awards
+
+<ul>
+    <li>2025, Bolsa Santander | Bolsas PAX-IAX Santander - Instituto Superior Técnico, Lisbon, Portugal .</li>
+    <li>2013, Second prize in the 4th National College Student Ship and Ocean Engineering Design Competition, China.</li>
+    <li>2013, Bronze Award of the 13th ”Challenge Cup” National College Student Curricular Academic Science and Technology Works Competition, China.</li>
+    
+</ul>
+
+<!-- > We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
+> —Anais Nin -->
+
+
