@@ -11,7 +11,7 @@ profiles:
   # and create one content file for each profile inside _pages/
   - align: right
     image: autoship/Container.jpg
-    content: autoship/about_container.md
+    content: Intro-autoship/about_container.md
     image_circular: false # crops the image to make it circular
     # more_info: >
     #   <p>555 your office number</p>
@@ -19,7 +19,7 @@ profiles:
     #   <p>Your City, State 12345</p>
   - align: right
     image: autoship/Aurora.jpg
-    content: autoship/about_aurora.md
+    content: Intro-autoship/about_aurora.md
     image_circular: false # crops the image to make it circular
     # more_info: >
     #   <p>555 your office number</p>
@@ -28,7 +28,7 @@ profiles:
 
   - align: right
     image: autoship/Navyship.png
-    content: autoship/about_navyship.md
+    content: Intro-autoship/about_navyship.md
     image_circular: false # crops the image to make it circular
     # more_info: >
     #   <p>555 your office number</p>
@@ -37,7 +37,7 @@ profiles:
 
   - align: right
     image: autoship/Autotug.jpg
-    content: autoship/about_autotugs.md
+    content: Intro-autoship/about_autotugs.md
     image_circular: false # crops the image to make it circular
     # more_info: >
     #   <p>555 your office number</p>
@@ -46,8 +46,8 @@ profiles:
 
   - align: right
     image: autoship/HUST-USV.jpg
-    content: autoship/about_hust-usvs.md
-    image_circular: true # crops the image to make it circular
+    content: Intro-autoship/about_hust-usvs.md
+    image_circular: false # crops the image to make it circular
     # more_info: >
     #   <p>555 your office number</p>
     #   <p>123 your address street</p>
