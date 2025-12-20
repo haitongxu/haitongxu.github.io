@@ -33,6 +33,31 @@ profiles:
     role: PhD 2025-present
     topic: Control barrier functions (co-supervise with XXX)
     image: prof_pic.jpg
+  - category: PhD Students
+    name: 张三
+    url: /people/zhangsan/        # 可选：个人页面链接；没有就不加
+    role: PhD 2025-present
+    topic: Control barrier functions (co-supervise with XXX)
+    image: prof_pic.jpg
+  - category: PhD Students
+    name: 张三
+    url: /people/zhangsan/        # 可选：个人页面链接；没有就不加
+    role: PhD 2025-present
+    topic: Control barrier functions (co-supervise with XXX)
+    image: prof_pic.jpg
+  - category: PhD Students
+    name: 张三
+    url: /people/zhangsan/        # 可选：个人页面链接；没有就不加
+    role: PhD 2025-present
+    topic: Control barrier functions (co-supervise with XXX)
+    image: prof_pic.jpg
+  - category: PhD Students
+    name: 张三
+    url: /people/zhangsan/        # 可选：个人页面链接；没有就不加
+    role: PhD 2025-present
+    topic: Control barrier functions (co-supervise with XXX)
+    image: prof_pic.jpg
+    
 
   - category: MSc Students
     name: 王五
