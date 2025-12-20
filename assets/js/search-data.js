@@ -440,24 +440,24 @@ ninja.data = [{
           description: "focuses on addressing the challenge of global warming and its connection to rising Earth temperatures.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-autonomous-ship-lab",
+          title: 'Autonomous Ship Lab',
+          description: "A Low-Cost Platform for Hands-On Learning in Marine Autonomy Systems",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+            },},{id: "projects-panoship",
+          title: 'PanoShip',
+          description: "Panoramic Video Generation and Object Tracking for Smart Ships via Deep Learning and HPC",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
+            },},{id: "projects-nonlinear-navigation-system-for-underactuated-autonomous-surface-ships-in-adverse-weather-conditions",
+          title: 'Nonlinear Navigation System for underactuated autonomous surface ships in adverse weather conditions',
+          description: "FCT PhD Studentships",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
+            },},{id: "projects-tecnico-startup-funds",
+          title: 'Tecnico Startup Funds',
+          description: "Artificial Intelligence Driven Decision-Making System for Safe Navigation of Underactuated Marine Autonomous Surface Ships (MASS)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
             },},{id: "projects-project-7",
