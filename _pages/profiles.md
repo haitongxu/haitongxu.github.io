@@ -34,13 +34,6 @@ profiles:
     topic: Control barrier functions (co-supervise with XXX)
     image: prof_pic.jpg
 
-  - category: Researchers
-    name: 李四
-    url: /people/lisi/
-    role: Researcher 2025-present
-    topic: Control Co-design Optimization
-    image: prof_pic.jpg
-
   - category: MSc Students
     name: 王五
     role: MSc 2025-2026
@@ -53,6 +46,6 @@ profiles:
     topic: Data-Driven Control
     image: prof_pic.jpg  
 
-category_order: [PhD Students, Researchers, MSc Students, Former Lab Members]
+category_order: [PhD Students, MSc Students, Former Lab Members]
 
 ---
