@@ -23,9 +23,11 @@ nav_order: 3
 
 <ul>
     <li>2025 Nov. 8-18 18, Vice-Program Coordinator and Lecturer, CENTEC Training course 2025 in Naval Architecture and Ocean Engineering, Instituto Superior Técnico (IST), University of Lisbon, Lisbon, Portugal.</li>
+    <ul>
         <li>Organised the CENTEC Training course 2025 including program design, scheduling, and speaker coordination.</li>
         <li>Delivered lectures on Autonomous ships to 21 participants.</li>
         <li>Developed practical project materials on Autonomous Ship Design.</li>
+    </ul>
     <li>2025 - Sep., Lecture for the “Ocean Robotics” for summer school at Huazhong University of Science and Technology, Wuhan, China.</li>
     <li>2025 - Oct., Lecture for the “Naval Architecture and Ocean Engineering” for summer school at Shanghai Maritime University, Shanghai, China (online).</li>
 </ul>

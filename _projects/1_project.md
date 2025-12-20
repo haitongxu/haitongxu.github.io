@@ -4,7 +4,7 @@ title: AutoOcean
 description: Distributed Intelligent decision-making system of Multi Autonomous surface vehicles for sustainable ocean monitoring
 img: assets/img/autoocean/mit-portugal.png
 importance: 1
-category: PI&Co-PI
+category: PI
 related_publications: true
 ---
 
@@ -15,28 +15,6 @@ The ocean plays a pivotal role in the blue economy. However, the increasing inte
 This project proposes the development of a distributed intelligent ocean monitoring system using multi-ASVs, with the long-term goal of enabling efficient and adaptive ocean observation. In collaboration with Dr. Michael Benjamin at MIT, the study focuses on creating an onboard distributed decision-making framework for optimal path planning. The system will employ multi-objective optimisation methods to ensure complete coverage of designated areas while avoiding collisions and accounting for the kinematic constraints of ASVs. Three custom-built ASVs at CENTEC and eight Heron ASVs at MIT will be deployed to conduct preliminary experimental tests, validating the proposed approach through evaluation of coverage efficiency and real-time navigation performance.
 
 The project outcomes are expected to provide a cost-effective, scalable, and intelligent solution for sustainable ocean observation, with broader benefits for periodic monitoring and offshore inspection. By advancing distributed autonomy in multi-ASV systems, the project directly contributes to the development of measurement technologies aligned with Earth systems research priorities, particularly in ocean monitoring.
-
-gantt
-    title Project Timeline: Multi-ASV Ocean Monitoring
-    dateFormat  YYYY-MM-DD
-    axisFormat  %b %Y
-
-    section Phase 1
-    System architecture & requirements   :a1, 2025-01-01, 6m
-
-    section Phase 2
-    Distributed decision-making framework :a2, after a1, 8m
-
-    section Phase 3
-    Path planning & coordination          :a3, after a2, 8m
-
-    section Phase 4
-    Experimental implementation & testing :a4, after a3, 8m
-
-    section Phase 5
-    Evaluation & dissemination            :a5, after a4, 6m
-
-
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
