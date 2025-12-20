@@ -6,7 +6,7 @@ description: members of the lab or group
 nav: true
 nav_order: 7
 
-profiles:
+# profiles:
   # # if you want to include more than one profile, just replicate the following block
   # # and create one content file for each profile inside _pages/
   # - align: right
@@ -26,17 +26,27 @@ profiles:
   #     <p>123 your address street</p>
   #     <p>Your City, State 12345</p>
   
-  - name: 张三
-    affiliation: 某某大学 · 计算机学院
+profiles:
+  - category: PhD Students
+    name: 张三
+    url: /people/zhangsan/        # 可选：个人页面链接；没有就不加
+    role: PhD 2025-present
+    topic: Control barrier functions (co-supervise with XXX)
     image: prof_pic.jpg
-    image_circular: true # crops the image to make it circular
-    content: people/about_einstein2.md
 
-  - name: 李四
-    affiliation: 某某研究院 · NLP 方向
+  - category: Researchers
+    name: 李四
+    url: /people/lisi/
+    role: Researcher 2025-present
+    topic: Control Co-design Optimization
     image: prof_pic.jpg
-    image_circular: true # crops the image to make it circular
-    content: people/about_einstein2.md
+
+  - category: MSc Students
+    name: 王五
+    role: MSc 2025-2026
+    topic: Data-Driven Control
+    image: prof_pic.jpg
+
 
 
 ---
