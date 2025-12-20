@@ -1,10 +1,11 @@
 ---
 layout: page
 ---
+
 <div class="post">
   <article>
     {% if page.profiles %}
-      <div class="profiles-grid">
+      <div class="profiles-grid-5">
         {% for profile in page.profiles %}
           <div class="profile-card">
             {% if profile.image %}
@@ -12,18 +13,13 @@ layout: page
               {% include figure.liquid
                 loading="lazy"
                 path=profile_image_path
-                class="profile-photo"
+                class="profile-photo-square"
                 alt=profile.name %}
             {% endif %}
 
             <div class="profile-meta">
-              {% if profile.name %}
-                <div class="profile-name">{{ profile.name }}</div>
-              {% endif %}
-
-              {% if profile.affiliation %}
-                <div class="profile-affiliation">{{ profile.affiliation }}</div>
-              {% endif %}
+              <div class="profile-name">{{ profile.name }}</div>
+              <div class="profile-affiliation">{{ profile.affiliation }}</div>
 
               {% if profile.content %}
                 {% capture bio %}{% include_relative {{ profile.content }} %}{% endcapture %}
@@ -42,55 +38,73 @@ layout: page
 </div>
 
 <style>
-/* 网格：自动适配列数 */
-.profiles-grid{
-  display:grid;
-  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
-  gap: 1.25rem;
+/* —— 5列网格（桌面端） —— */
+.profiles-grid-5{
+  display: grid;
+  grid-template-columns: repeat(5, minmax(0, 1fr)); /* 强制 5 列 */
+  gap: .8rem; /* 间距小一点才放得下 5 个 */
   align-items: start;
 }
 
-/* 卡片 */
+/* 响应式：屏幕变窄自动减少列数 */
+@media (max-width: 1200px){
+  .profiles-grid-5{ grid-template-columns: repeat(4, minmax(0, 1fr)); }
+}
+@media (max-width: 992px){
+  .profiles-grid-5{ grid-template-columns: repeat(3, minmax(0, 1fr)); }
+}
+@media (max-width: 768px){
+  .profiles-grid-5{ grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
+@media (max-width: 480px){
+  .profiles-grid-5{ grid-template-columns: 1fr; }
+}
+
+/* 卡片更“紧凑”，类似你参考网页那种密度 */
 .profile-card{
   border: 1px solid rgba(0,0,0,.10);
-  border-radius: 16px;
-  overflow: hidden;       /* 让图片圆角生效 */
+  border-radius: 12px;
+  overflow: hidden;
   background: #fff;
-  box-shadow: 0 8px 18px rgba(0,0,0,.06);
 }
 
-/* 顶部图片：占满卡片宽度，固定比例更整齐 */
-.profile-photo{
+/* 方形图片：占卡片宽度，但通过限制最大高度让它看起来更小 */
+.profile-photo-square{
   width: 100%;
-  aspect-ratio: 4 / 3;    /* 你也可以改成 1/1 或 3/4 */
+  aspect-ratio: 1 / 1;   /* 方形 */
   object-fit: cover;
-  display:block;
+  display: block;
+  max-height: 140px;     /* 关键：让图别太大（你可改 120/130/150） */
 }
 
-/* 文字区域 */
+/* 文字区域更紧凑 */
 .profile-meta{
-  padding: 1rem 1rem 1.1rem;
+  padding: .65rem .7rem .75rem;
 }
 
 .profile-name{
   font-weight: 800;
-  font-size: 1.1rem;
+  font-size: 1.0rem;
   line-height: 1.2;
-  margin: 0 0 .25rem 0;
+  margin: 0 0 .2rem 0;
 }
 
 .profile-affiliation{
-  font-size: .95rem;
+  font-size: .88rem;
   opacity: .85;
-  margin: 0 0 .75rem 0;
+  margin: 0 0 .45rem 0;
 }
 
+/* 简介不要太长，否则卡片高度差异会很大 */
 .profile-bio{
-  font-size: .95rem;
-  line-height: 1.55;
+  font-size: .88rem;
+  line-height: 1.45;
+  display: -webkit-box;
+  -webkit-line-clamp: 4;      /* 最多显示 4 行，超出省略 */
+  -webkit-box-orient: vertical;
+  overflow: hidden;
 }
 
-/* 防止 markdown 里第一个段落顶太近 */
 .profile-bio > :first-child{ margin-top: 0; }
 .profile-bio > :last-child{ margin-bottom: 0; }
 </style>
