@@ -26,14 +26,6 @@ profiles:
     #   <p>123 your address street</p>
     #   <p>Your City, State 12345</p>
   - align: right
-    image: autoship/Aurora.jpg
-    content: Intro-autoship/about_aurora.md
-    image_circular: false # crops the image to make it circular
-    # more_info: >
-    #   <p>555 your office number</p>
-    #   <p>123 your address street</p>
-    #   <p>Your City, State 12345</p>
-  - align: right
     image: autoship/Navyship.jpg
     content: Intro-autoship/about_navyship.md
     image_circular: false # crops the image to make it circular
