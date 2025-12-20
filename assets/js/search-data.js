@@ -430,8 +430,8 @@ ninja.data = [{
           section: "News",},{id: "news-i-will-be-leading-a-team-of-two-master-s-students-on-behalf-of-ist-to-participate-in-the-18th-international-collegiate-snow-sculpture-contest-sparkles-smile-snowman",
           title: 'I will be leading a team of two master’s students on behalf of...',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
+          section: "News",},{id: "projects-autoocean",
+          title: 'AutoOcean',
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
