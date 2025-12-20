@@ -53,7 +53,7 @@ profiles:
     # url: /people/zhangsan/        # 可选：个人页面链接；没有就不加
     role: Visiting PhD 2025.12-2026.12
     topic: Berthing State Estimation using LiDAR (Supervisor)
-    image: /people/Dongdong-guo.jpg
+    image: /people/Dongdong-guo.png
 
   - category: PhD Students
     name: Rui Tian
