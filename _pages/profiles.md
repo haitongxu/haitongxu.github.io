@@ -61,12 +61,14 @@ profiles:
     role: Visiting PhD 2025.03-2025.03
     topic: Manoeuvring modelling using mutual information clustering (Supervisor)
     image: /people/rui-tian.png
+    
   - category: PhD Students
     name: Zhilin Yang
     # url: /people/zhangsan/        # 可选：个人页面链接；没有就不加
     role: Visiting PhD 2025.03-2026.03
     topic: Image and video stitching (Supervisor)
     image: /people/zhilin-yang.png
+
   - category: PhD Students
     name: Xiaofei Shi
     # url: /people/zhangsan/        # 可选：个人页面链接；没有就不加
