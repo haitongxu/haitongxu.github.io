@@ -9,29 +9,24 @@ layout: page
       {%- assign categories = page.category_order -%}
 
       {% for c in categories %}
-        <h2 class="people-section-title">{{ c }}</h2>
+        <h2 class="people-category-title">{{ c }}</h2>
 
-        <div class="people-list">
+        <div class="people-grid">
           {% for p in page.profiles %}
             {% if p.category == c %}
-              <div class="person-item">
-                <div class="person-avatar">
-                  {% if p.image %}
-                    {% assign img_path = p.image | prepend: 'assets/img/' %}
-                    <img src="{{ img_path | relative_url }}" alt="{{ p.name }}" loading="lazy">
-                  {% else %}
-                    <div class="avatar-placeholder"></div>
-                  {% endif %}
-                </div>
+              <div class="person-card">
 
-                <div class="person-body">
-                  <div class="person-name">
-                    {% if p.url %}
-                      <a href="{{ p.url | relative_url }}">{{ p.name }}</a>
-                    {% else %}
-                      {{ p.name }}
-                    {% endif %}
-                  </div>
+                {% if p.image %}
+                  {% assign img_path = p.image | prepend: 'assets/img/' %}
+                  <img
+                    src="{{ img_path | relative_url }}"
+                    alt="{{ p.name }}"
+                    class="person-photo"
+                    loading="lazy">
+                {% endif %}
+
+                <div class="person-info">
+                  <div class="person-name">{{ p.name }}</div>
 
                   {% if p.role %}
                     <div class="person-role">{{ p.role }}</div>
@@ -44,85 +39,89 @@ layout: page
                     <div class="person-topic">{{ p.topic }}</div>
                   {% endif %}
                 </div>
+
               </div>
             {% endif %}
           {% endfor %}
         </div>
       {% endfor %}
 
-    {% else %}
-      {{ content }}
     {% endif %}
   </article>
 </div>
 
 <style>
-/* 分组标题，接近参考网页 */
-.people-section-title{
-  margin: 1.6rem 0 1rem;
-  font-size: 1.35rem;
+/* ===== 分类标题：居中 ===== */
+.people-category-title{
+  text-align: center;
+  margin: 2rem 0 1.2rem;
+  font-size: 1.5rem;
   font-weight: 800;
 }
 
-/* 列表容器 */
-.people-list{
+/* ===== 5列网格：整体居中 ===== */
+.people-grid{
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 1.2rem;
+  justify-content: center;
+  margin-bottom: 2rem;
+}
+
+/* 响应式 */
+@media (max-width: 1200px){
+  .people-grid{ grid-template-columns: repeat(4, 1fr); }
+}
+@media (max-width: 992px){
+  .people-grid{ grid-template-columns: repeat(3, 1fr); }
+}
+@media (max-width: 768px){
+  .people-grid{ grid-template-columns: repeat(2, 1fr); }
+}
+@media (max-width: 480px){
+  .people-grid{ grid-template-columns: 1fr; }
+}
+
+/* ===== 成员卡片：上下结构 + 居中 ===== */
+.person-card{
   display: flex;
   flex-direction: column;
-  gap: 1rem;
+  align-items: center;
+  text-align: center;
 }
 
-/* 单条成员：左头像 + 右内容 */
-.person-item{
-  display: flex;
-  align-items: flex-start;
-  gap: .9rem;
-}
-
-/* 圆形头像 */
-.person-avatar img,
-.avatar-placeholder{
-  width: 56px;
-  height: 56px;
-  border-radius: 999px;
+/* ===== 图片更大（重点） ===== */
+.person-photo{
+  width: 140px;          /* 👈 你可以调到 130 / 150 */
+  height: 140px;
   object-fit: cover;
-  display: block;
-  border: 1px solid rgba(0,0,0,.10);
+  border-radius: 999px; /* 圆形（和参考网页一致） */
+  margin-bottom: .6rem;
+  border: 1px solid rgba(0,0,0,.12);
 }
 
-/* 没有图片时的占位 */
-.avatar-placeholder{
-  background: rgba(0,0,0,.04);
-}
-
-/* 文本区 */
-.person-body{ min-width: 0; } /* 防止长名字撑破布局 */
+/* ===== 文本 ===== */
+.person-info{ max-width: 95%; }
 
 .person-name{
   font-size: 1.1rem;
   font-weight: 800;
-  line-height: 1.2;
-  margin: 0 0 .2rem;
-}
-.person-name a{
-  text-decoration: none;
-}
-.person-name a:hover{
-  text-decoration: underline;
+  margin-bottom: .15rem;
 }
 
 .person-role{
   font-size: .95rem;
-  font-weight: 700;
-  margin: 0 0 .2rem;
+  font-weight: 600;
+  margin-bottom: .35rem;
 }
 
 .person-topic{
-  font-size: .95rem;
-  line-height: 1.4;
+  font-size: .9rem;
+  line-height: 1.45;
   opacity: .9;
 }
 
-/* 如果 topic/bio 是 markdown 转出来的 p，去掉多余上下间距 */
+/* markdown 间距修正 */
 .person-topic > :first-child{ margin-top: 0; }
 .person-topic > :last-child{ margin-bottom: 0; }
 </style>
