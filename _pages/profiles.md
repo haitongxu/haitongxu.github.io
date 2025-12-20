@@ -46,7 +46,7 @@ profiles:
     # url: /people/zhangsan/        # 可选：个人页面链接；没有就不加
     role: PhD 2025-present
     topic: Obstacle Detection Methods Using Maritime Radar
-    image: /people/prof_pic.jpg
+    image: /people/boyu-han.png
 
   - category: PhD Students
     name: Fernando Santos
