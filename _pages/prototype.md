@@ -1,7 +1,7 @@
 ---
 layout: prototype
 permalink: /AutoShip/
-title: Autonomous Ship Prototype
+title: AutoShip
 description: members of the lab or group
 nav: true
 nav_order: 8
@@ -17,7 +17,7 @@ profiles:
       <p>555 your office number</p>
       <p>123 your address street</p>
       <p>Your City, State 12345</p>
-  - align: left
+  - align: right
     image: autoship/prof_pic.jpg
     content: autoship/about_einstein.md
     image_circular: false # crops the image to make it circular
@@ -26,7 +26,7 @@ profiles:
       <p>123 your address street</p>
       <p>Your City, State 12345</p>
 
-  - align: left
+  - align: right
     image: autoship/prof_pic.jpg
     content: autoship/about_einstein.md
     image_circular: false # crops the image to make it circular
@@ -35,7 +35,7 @@ profiles:
       <p>123 your address street</p>
       <p>Your City, State 12345</p>
 
-  - align: left
+  - align: right
     image: autoship/prof_pic.jpg
     content: autoship/about_einstein.md
     image_circular: false # crops the image to make it circular
@@ -44,7 +44,7 @@ profiles:
       <p>123 your address street</p>
       <p>Your City, State 12345</p>
 
-  - align: left
+  - align: right
     image: autoship/prof_pic.jpg
     content: autoship/about_einstein.md
     image_circular: false # crops the image to make it circular
@@ -53,7 +53,7 @@ profiles:
       <p>123 your address street</p>
       <p>Your City, State 12345</p>
 
-  - align: left
+  - align: right
     image: autoship/prof_pic.jpg
     content: autoship/about_einstein.md
     image_circular: false # crops the image to make it circular
@@ -62,7 +62,7 @@ profiles:
       <p>123 your address street</p>
       <p>Your City, State 12345</p>
 
-  - align: left
+  - align: right
     image: autoship/prof_pic.jpg
     content: autoship/about_einstein.md
     image_circular: false # crops the image to make it circular
