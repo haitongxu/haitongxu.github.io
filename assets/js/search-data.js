@@ -460,9 +460,9 @@ ninja.data = [{
           description: "Artificial Intelligence Driven Decision-Making System for Safe Navigation of Underactuated Marine Autonomous Surface Ships (MASS)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
+            },},{id: "projects-autotugs",
+          title: 'AutoTugs',
+          description: "Development of low-cost and open test platform of 3D printed autonomous Tugs",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
             },},{id: "projects-project-8",
