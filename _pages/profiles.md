@@ -139,7 +139,7 @@ profiles:
     name: Hugan Zhang
     role: Visiting PhD 2023.07-2024.07
     topic: Cooperative Formation Control
-    image: /people/prof_pic.jpg
+    image: /people/hugan-zhang.jpeg
     more_info: >
        <p>Working at Shanghai Martime Unversity</p>
     
@@ -147,7 +147,7 @@ profiles:
     name: Chenfeng Huang
     role: Visiting PhD 2021.09-2022.10
     topic: Formation Control
-    image: /people/prof_pic.jpg
+    image: /people/chenfeng-huang.jpeg
     more_info: >
        <p>Working at Dalian Martime Unversity</p>
 
