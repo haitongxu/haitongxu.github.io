@@ -430,41 +430,41 @@ ninja.data = [{
           section: "News",},{id: "news-i-will-be-leading-a-team-of-two-master-s-students-on-behalf-of-ist-to-participate-in-the-18th-international-collegiate-snow-sculpture-contest-sparkles-smile-snowman",
           title: 'I will be leading a team of two master’s students on behalf of...',
           description: "",
-          section: "News",},{id: "projects-autoocean",
-          title: 'AutoOcean',
-          description: "Distributed Intelligent decision-making system of Multi Autonomous surface vehicles for sustainable ocean monitoring",
+          section: "News",},{id: "projects-autotugs",
+          title: 'AutoTugs',
+          description: "Development of low-cost and open test platform of 3D printed autonomous Tugs",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
-            },},{id: "projects-dewatra",
-          title: 'DEWATRA',
-          description: "focuses on addressing the challenge of global warming and its connection to rising Earth temperatures.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
-            },},{id: "projects-autonomous-ship-lab",
-          title: 'Autonomous Ship Lab',
-          description: "A Low-Cost Platform for Hands-On Learning in Marine Autonomy Systems",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
-            },},{id: "projects-panoship",
-          title: 'PanoShip',
-          description: "Panoramic Video Generation and Object Tracking for Smart Ships via Deep Learning and HPC",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
+              window.location.href = "/projects/2022_AutoTugs/";
             },},{id: "projects-nonlinear-navigation-system-for-underactuated-autonomous-surface-ships-in-adverse-weather-conditions",
           title: 'Nonlinear Navigation System for underactuated autonomous surface ships in adverse weather conditions',
           description: "FCT PhD Studentships",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project/";
+              window.location.href = "/projects/2022_FCT_PHD/";
+            },},{id: "projects-dewatra",
+          title: 'DEWATRA',
+          description: "focuses on addressing the challenge of global warming and its connection to rising Earth temperatures.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2024_DEWATRA/";
+            },},{id: "projects-autoocean",
+          title: 'AutoOcean',
+          description: "Distributed Intelligent decision-making system of Multi Autonomous surface vehicles for sustainable ocean monitoring",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2025_AutoOcean/";
+            },},{id: "projects-panoship",
+          title: 'PanoShip',
+          description: "Panoramic Video Generation and Object Tracking for Smart Ships via Deep Learning and HPC",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2025_CPCA/";
             },},{id: "projects-tecnico-startup-funds",
           title: 'Tecnico Startup Funds',
           description: "Artificial Intelligence Driven Decision-Making System for Safe Navigation of Underactuated Marine Autonomous Surface Ships (MASS)",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project/";
-            },},{id: "projects-autotugs",
-          title: 'AutoTugs',
-          description: "Development of low-cost and open test platform of 3D printed autonomous Tugs",
+              window.location.href = "/projects/2025_IST/";
+            },},{id: "projects-autonomous-ship-lab",
+          title: 'Autonomous Ship Lab',
+          description: "A Low-Cost Platform for Hands-On Learning in Marine Autonomy Systems",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project/";
+              window.location.href = "/projects/2025_PIP/";
             },},{id: "projects-project-8",
           title: 'project 8',
           description: "an other project with a background image and giscus comments",
