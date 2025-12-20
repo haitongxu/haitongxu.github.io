@@ -4,7 +4,7 @@ title: AutoOcean
 description: Distributed Intelligent decision-making system of Multi Autonomous surface vehicles for sustainable ocean monitoring
 img: assets/img/autoocean/mit-portugal.png
 importance: 1
-category: PI
+category: PI&Co-PI
 related_publications: true
 ---
 
