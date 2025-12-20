@@ -1,33 +1,16 @@
 ---
 layout: page
-title: DEWATRA
-description: focuses on addressing the challenge of global warming and its connection to rising Earth temperatures.
-img: assets/img/DEWATRA/dewatra_logo.jpeg
+title: project 2
+description: a project with a background image and giscus comments
+img: assets/img/3.jpg
 importance: 2
-category: PI
+category: work
 giscus_comments: true
 ---
 
-## CA23159 - Decarbonising Waterborne Transportation
-DeWaTra project, focuses on addressing the challenge of global warming and its connection to rising Earth temperatures, with a particular emphasis on the role of the shipping industry in international trade.
-
-The proposed project, focuses on addressing the challenge of global warming and its connection to rising Earth temperatures, with a particular emphasis on the role of the shipping industry in international trade. It introduces the concept of “green shipping” as a comprehensive approach to enhance environmental conditions within the shipping sector.
-
-The project outlines various technological and operational strategies, including optimizing ship hull design, implementing energy-saving devices, exploring alternative fuels, utilizing wind energy, and employing artificial neural networks (ANN) for predicting fuel consumption and emissions. Additionally, it highlights the use of Automatic Identification System (AIS) data for studying ship emissions’ impact on air quality.
-
-The primary objective of the proposed project is to achieve a higher level of sustainability in shipping by reducing CO2 emissions, enhancing energy efficiency, and ensuring compliance with international regulations. This initiative sets clear and ambitious goals, such as developing numerical models, assessing the performance of technology combinations, fostering capacity-building, and influencing transport policy measures to promote sustainable maritime practices.
-
----
-
-#### Working Groups
-
-<ul>
-    <li>WG1. Assessment of atmospheric emissions from shipping.</li>
-    <li>WG 2. Hydrodynamic hull design for energy-efficient performance.</li>
-    <li>WG 3. Operation of ship propulsion systems with alternative fuels.</li>
-    <li>WG 4. Renewable energy contributions to ship energy efficiency.</li>
-    <li>WG 5. Onboard decision support systems for energy-efficient ship operation.</li>
-</ul>
+Every project has a beautiful feature showcase page.
+It's easy to include images in a flexible 3-column grid format.
+Make your photos 1/3, 2/3, or full width.
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
