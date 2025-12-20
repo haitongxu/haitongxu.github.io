@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-Attend the 18th International Collegiate Snow Sculpture Contest :smile: :snow:
+Attend the 18th International Collegiate Snow Sculpture Contest :sparkles: :smile: :snow:
 
