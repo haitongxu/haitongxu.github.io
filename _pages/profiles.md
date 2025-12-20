@@ -66,10 +66,32 @@ profiles:
     image: prof_pic.jpg
 
   - category: Former Lab Members
-    name: 王五
-    role: MSc 2025-2026
-    topic: Data-Driven Control
-    image: prof_pic.jpg  
+    name: Paulo Pires Silva
+    role: Visiting PhD 2024.09-2025.08
+    topic: Manoeuvring modelling based sea trials
+    image: /people/Paulo-Pires-Silva.jpg
+    # bio: Working at Dalian Martime Unversity  
+  
+  - category: Former Lab Members
+    name: Yao Meng
+    role: Visiting PhD 2024.09-2025.08
+    topic: Manoeuvring modelling and Prediction
+    image: /people/Yao-Meng.jpg
+    # bio: Working at Dalian Martime Unversity  
+
+  - category: Former Lab Members
+    name: Hugan Zhang
+    role: Visiting PhD 2023.07-2024.07
+    topic: Cooperative Formation Control
+    image: /people/prof_pic.jpg
+    bio: Working at Shanghai Martime Unversity
+    
+  - category: Former Lab Members
+    name: ChengFeng Haung
+    role: Visiting PhD 2021.09-2022.10
+    topic: Formation Control
+    image: /people/prof_pic.jpg
+    bio: Working at Dalian Martime Unversity  
 
 category_order: [PhD Students, MSc Students, Former Lab Members]
 
