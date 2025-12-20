@@ -140,14 +140,24 @@ profiles:
     role: Visiting PhD 2023.07-2024.07
     topic: Cooperative Formation Control
     image: /people/prof_pic.jpg
-    bio: Working at Shanghai Martime Unversity
+    more_info: >
+       <p>Working at Shanghai Martime Unversity</p>
     
   - category: Former Lab Members
     name: Chenfeng Huang
     role: Visiting PhD 2021.09-2022.10
     topic: Formation Control
     image: /people/prof_pic.jpg
-    bio: Working at Dalian Martime Unversity  
+    more_info: >
+       <p>Working at Dalian Martime Unversity</p>
+
+  - category: Former Lab Members
+    name: Chenfeng Huang
+    role: Visiting PhD 2021.09-2022.10
+    topic: Formation Control
+    image: /people/prof_pic.jpg
+    more_info: >
+       <p>Working at Dalian Martime Unversity</p>   
 
 category_order: [PhD Students & Researcher, MSc Students, Former Lab Members]
 
