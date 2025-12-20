@@ -29,45 +29,45 @@ nav_order: 7
 profiles:
   - category: PhD Students
     name: 张三
-    url: /people/zhangsan/        # 可选：个人页面链接；没有就不加
+    # url: /people/zhangsan/        # 可选：个人页面链接；没有就不加
     role: PhD 2025-present
     topic: Control barrier functions (co-supervise with XXX)
     image: /people/prof_pic.jpg
   - category: PhD Students
     name: 张三
-    url: /people/zhangsan/        # 可选：个人页面链接；没有就不加
+    # url: /people/zhangsan/        # 可选：个人页面链接；没有就不加
     role: PhD 2025-present
     topic: Control barrier functions (co-supervise with XXX)
     image: /people/prof_pic.jpg
   - category: PhD Students
     name: 张三
-    url: /people/zhangsan/        # 可选：个人页面链接；没有就不加
+    # url: /people/zhangsan/        # 可选：个人页面链接；没有就不加
     role: PhD 2025-present
     topic: Control barrier functions (co-supervise with XXX)
     image: /people/prof_pic.jpg
   - category: PhD Students
     name: 张三
-    url: /people/zhangsan/        # 可选：个人页面链接；没有就不加
+    # url: /people/zhangsan/        # 可选：个人页面链接；没有就不加
     role: PhD 2025-present
     topic: Control barrier functions (co-supervise with XXX)
     image: /people/prof_pic.jpg
   - category: PhD Students
     name: 张三
-    url: /people/zhangsan/        # 可选：个人页面链接；没有就不加
+    # url: /people/zhangsan/        # 可选：个人页面链接；没有就不加
     role: PhD 2025-present
     topic: Control barrier functions (co-supervise with XXX)
     image: /people/prof_pic.jpg
 
 
   - category: MSc Students
-    name: 王五
-    role: MSc 2025-2026
-    topic: Data-Driven Control
-    image: prof_pic.jpg
+    name: Ana Catarina Costa
+    role: MSc 2020-2021
+    topic: Manoeuvring modelling
+    image: people/prof_pic.jpg
 
   - category: Former Lab Members
     name: Paulo Pires Silva
-    role: Visiting PhD 2024.09-2025.08
+    role: PhD 2024.09-2025.08
     topic: Manoeuvring modelling based sea trials
     image: /people/Paulo-Pires-Silva.jpg
     # bio: Working at Dalian Martime Unversity  
