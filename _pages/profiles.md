@@ -56,11 +56,24 @@ profiles:
     image: /people/Fernando-Santos.jpg
 
   - category: PhD Students
+    name: Ruilin Liu
+    # url: /people/zhangsan/        # 可选：个人页面链接；没有就不加
+    role: Visiting PhD 2025-2026
+    topic: Adaptive formation control
+    image: /people/prof_pic.jpg
+
+  - category: PhD Students
     name: Dongdong Guo
     # url: /people/zhangsan/        # 可选：个人页面链接；没有就不加
     role: Visiting PhD 2025.12-2026.12
     topic: Berthing State Estimation using LiDAR (Supervisor)
     image: /people/Dongdong-guo.png
+  - category: PhD Students
+    name: Zhiquan Liu
+    # url: /people/zhangsan/        # 可选：个人页面链接；没有就不加
+    role: Visiting Scholar 2025.12-2026.01
+    topic: Nonlinear Pathf following control
+    image: /people/prof_pic.jpg
 
   - category: PhD Students
     name: Rui Tian
