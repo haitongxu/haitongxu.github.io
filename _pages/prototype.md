@@ -2,7 +2,7 @@
 layout: prototype
 permalink: /AutoShip/
 title: AutoShip
-description: Autonomous Ship Prototype
+description: Autonomous Ship Prototype at Autonomous Ship Lab.
 nav: true
 nav_order: 8
 
@@ -11,15 +11,15 @@ profiles:
   # and create one content file for each profile inside _pages/
   - align: right
     image: autoship/Container.jpg
-    content: autoship/about_einstein.md
+    content: autoship/about_container.md
     image_circular: false # crops the image to make it circular
     # more_info: >
     #   <p>555 your office number</p>
     #   <p>123 your address street</p>
     #   <p>Your City, State 12345</p>
   - align: right
-    image: autoship/prof_pic.jpg
-    content: autoship/about_einstein.md
+    image: autoship/Aurora.jpg
+    content: autoship/about_aurora.md
     image_circular: false # crops the image to make it circular
     # more_info: >
     #   <p>555 your office number</p>
@@ -27,47 +27,30 @@ profiles:
     #   <p>Your City, State 12345</p>
 
   - align: right
-    image: autoship/prof_pic.jpg
-    content: autoship/about_einstein.md
+    image: autoship/Navyship.png
+    content: autoship/about_navyship.md
     image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+    # more_info: >
+    #   <p>555 your office number</p>
+    #   <p>123 your address street</p>
+    #   <p>Your City, State 12345</p>
 
   - align: right
-    image: autoship/prof_pic.jpg
-    content: autoship/about_einstein.md
+    image: autoship/Autotug.jpg
+    content: autoship/about_autotugs.md
     image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+    # more_info: >
+    #   <p>555 your office number</p>
+    #   <p>123 your address street</p>
+    #   <p>Your City, State 12345</p>
 
   - align: right
-    image: autoship/prof_pic.jpg
-    content: autoship/about_einstein.md
+    image: autoship/HUST-USV.jpg
+    content: autoship/about_hust-usvs.md
     image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+    # more_info: >
+    #   <p>555 your office number</p>
+    #   <p>123 your address street</p>
+    #   <p>Your City, State 12345</p>
 
-  - align: right
-    image: autoship/prof_pic.jpg
-    content: autoship/about_einstein.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
-
-  - align: right
-    image: autoship/prof_pic.jpg
-    content: autoship/about_einstein.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
----
+  ---
