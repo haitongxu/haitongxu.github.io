@@ -53,7 +53,7 @@ ninja.data = [{
           },
         },{id: "nav-autoship",
           title: "AutoShip",
-          description: "members of the lab or group",
+          description: "Autonomous Ship Prototype at Autonomous Ship Lab",
           section: "Navigation",
           handler: () => {
             window.location.href = "/autoship/";
