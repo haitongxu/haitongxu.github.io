@@ -1,0 +1,1 @@
+Autonomous Carbon fiber water jet USVs with a low cost sensros, onborad controller, remote onshore control center.
