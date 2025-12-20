@@ -1,0 +1,1 @@
+An Autonomouos Chemical Tanker, Aurora,  with various sensros and onborad control system, and it was validated by various manouvering tests and autonomous shipping test in Oeiras swimming pool.

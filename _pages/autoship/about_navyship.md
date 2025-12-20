@@ -1,0 +1,1 @@
+An Autonomous naval fast ship model with twin propellers and rudders and fin stabilizer
