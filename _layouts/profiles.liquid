@@ -26,7 +26,13 @@ layout: page
                 {% endif %}
 
                 <div class="person-info">
-                  <div class="person-name">{{ p.name }}</div>
+                   <div class="person-name">
+                    {% if p.url %}
+                      <a href="{{ p.url | relative_url }}">{{ p.name }}</a>
+                    {% else %}
+                      {{ p.name }}
+                    {% endif %}
+                  </div>
 
                   {% if p.role %}
                     <div class="person-role">{{ p.role }}</div>
@@ -105,13 +111,13 @@ layout: page
 
 .person-name{
   font-size: 1.1rem;
-  font-weight: 800;
+  font-weight: normal;
   margin-bottom: .15rem;
 }
 
 .person-role{
   font-size: .95rem;
-  font-weight: 600;
+  font-weight: normal;
   margin-bottom: .35rem;
 }
 
