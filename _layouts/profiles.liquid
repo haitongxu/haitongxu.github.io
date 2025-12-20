@@ -1,76 +1,52 @@
+---
 layout: page
 ---
 <div class="post">
   <article>
     {% if page.profiles %}
-      <div class="profiles-grid">
-        {% for profile in page.profiles %}
-          <div class="profile-card">
-            {% if profile.image %}
-              {% assign profile_image_path = profile.image | prepend: 'assets/img/' %}
-              {% assign profile_image_class = 'profile-avatar' %}
-              {% include figure.liquid loading="lazy" path=profile_image_path class=profile_image_class alt=profile.image %}
+    <div class="profiles-list">
+      {% for profile in page.profiles %}
+        <div class="profile-row">
+          {% if profile.image %}
+            {% assign profile_image_path = profile.image | prepend: 'assets/img/' %}
+            {% include figure.liquid loading="lazy" path=profile_image_path class="avatar-small" alt=profile.image %}
+          {% endif %}
+
+          <div class="profile-body">
+            {% if profile.name %}<div class="name">{{ profile.name }}</div>{% endif %}
+            {% if profile.more_info %}<div class="more">{{ profile.more_info }}</div>{% endif %}
+            {% if profile.content %}
+              {% capture profile_content %}{% include_relative {{ profile.content }} %}{% endcapture %}
+              {{ profile_content | markdownify }}
             {% endif %}
-
-            <div class="profile-text">
-              {% if profile.name %}
-                <div class="profile-name">{{ profile.name }}</div>
-              {% endif %}
-
-              {% if profile.more_info %}
-                <div class="more-info">{{ profile.more_info }}</div>
-              {% endif %}
-
-              {% if profile.content %}
-                {% capture profile_content %}{% include_relative {{ profile.content }} %}{% endcapture %}
-                {{ profile_content | markdownify }}
-              {% endif %}
-            </div>
           </div>
-        {% endfor %}
-      </div>
+        </div>
+      {% endfor %}
+    </div>
     {% endif %}
+    <style>
+    .profiles-list{
+      display:flex;
+      flex-direction:column;
+      gap:1rem;
+    }
+    .profile-row{
+      display:flex;
+      gap:1rem;
+      align-items:flex-start;
+      padding: .75rem;
+      border: 1px solid rgba(0,0,0,.08);
+      border-radius: 12px;
+    }
+    .avatar-small{
+      width: 88px;
+      height: 88px;
+      object-fit: cover;
+      border-radius: 999px;
+      flex: 0 0 auto;
+    }
+    .name{font-weight:700;font-size:1.05rem;margin-bottom:.25rem;}
+    .more{opacity:.85;margin-bottom:.5rem;}
+    </style>
   </article>
 </div>
-
-<style>
-/* 网格容器：自动换行 */
-.profiles-grid{
-  display:grid;
-  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
-  gap: 1.25rem;
-  align-items:start;
-}
-
-/* 单个卡片 */
-.profile-card{
-  border: 1px solid rgba(0,0,0,.08);
-  border-radius: 14px;
-  padding: 1rem;
-  background: #fff;
-}
-
-/* 头像 */
-.profile-avatar{
-  width: 100%;
-  max-width: 160px;
-  aspect-ratio: 1 / 1;
-  object-fit: cover;
-  border-radius: 999px; /* 圆形 */
-  display:block;
-  margin: 0 auto .75rem auto;
-}
-
-/* 文字 */
-.profile-name{
-  font-weight: 700;
-  font-size: 1.05rem;
-  text-align:center;
-  margin-bottom: .25rem;
-}
-.profile-text .more-info{
-  text-align:center;
-  opacity:.85;
-  margin-bottom:.75rem;
-}
-</style>
