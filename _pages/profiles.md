@@ -7,22 +7,34 @@ nav: true
 nav_order: 7
 
 profiles:
-  # if you want to include more than one profile, just replicate the following block
-  # and create one content file for each profile inside _pages/
-  - align: right
+  # # if you want to include more than one profile, just replicate the following block
+  # # and create one content file for each profile inside _pages/
+  # - align: right
+  #   image: prof_pic.jpg
+  #   #content: about_einstein.md
+  #   image_circular: true # crops the image to make it circular
+  #   more_info: >
+  #     <p>555 your office number</p>
+  #     <p>123 your address street</p>
+  #     <p>Your City, State 12345</p>
+  # - align: left
+  #   image: prof_pic.jpg
+  #   #content: about_einstein.md
+  #   image_circular: true # crops the image to make it circular
+  #   more_info: >
+  #     <p>555 your office number</p>
+  #     <p>123 your address street</p>
+  #     <p>Your City, State 12345</p>
+  
+  - name: 张三
+    affiliation: 某某大学 · 计算机学院
+    image: zprof_pic.jpg
+    content: people/about_einstein2.md
+
+  - name: 李四
+    affiliation: 某某研究院 · NLP 方向
     image: prof_pic.jpg
-    #content: about_einstein.md
-    image_circular: true # crops the image to make it circular
-    more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
-  - align: left
-    image: prof_pic.jpg
-    #content: about_einstein.md
-    image_circular: true # crops the image to make it circular
-    more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+    content: people/about_einstein2.md
+
+
 ---
