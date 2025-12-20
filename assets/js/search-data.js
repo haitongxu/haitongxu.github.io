@@ -45,8 +45,8 @@ ninja.data = [{
             window.location.href = "/regcognitions/";
           },
         },{id: "nav-people",
-          title: "people",
-          description: "members of the lab or group",
+          title: "People",
+          description: "Members of the Autonomous Ship Lab.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/people/";
