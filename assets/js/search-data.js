@@ -424,8 +424,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-i-am-extremely-honoured-to-be-appointed-as-conference-scientific-committee-of-pdewatra-which-aim-for-the-shipping-industry-to-transport-goods-without-greenhouse-gas-ghg-emissions-emoji-ship-sparkles",
-          title: 'I am extremely honoured to be appointed as Conference Scientific Committee of PDEWATRA,...',
+            },},{id: "news-i-am-extremely-honoured-to-be-appointed-as-conference-scientific-committee-of-dewatra-which-aim-for-the-shipping-industry-to-transport-goods-without-greenhouse-gas-ghg-emissions-ship-sparkles",
+          title: 'I am extremely honoured to be appointed as Conference Scientific Committee of DEWATRA,...',
           description: "",
           section: "News",},{id: "news-i-will-i-will-be-leading-a-team-of-two-master-s-students-on-behalf-of-ist-to-participate-in-the-18th-international-collegiate-snow-sculpture-contest-sparkles-smile-snowman",
           title: 'I will I will be leading a team of two master’s students on...',
