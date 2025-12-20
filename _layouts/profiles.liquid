@@ -6,7 +6,7 @@ layout: page
   <article>
     {% if page.profiles %}
 
-      {%- assign categories = page.profiles | map: "category" | uniq -%}
+      {%- assign categories = page.category_order -%}
 
       {% for c in categories %}
         <h2 class="people-section-title">{{ c }}</h2>
