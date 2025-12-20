@@ -129,7 +129,7 @@ profiles:
     bio: Working at Shanghai Martime Unversity
     
   - category: Former Lab Members
-    name: ChengFeng Haung
+    name: Chenfeng Huang
     role: Visiting PhD 2021.09-2022.10
     topic: Formation Control
     image: /people/prof_pic.jpg
