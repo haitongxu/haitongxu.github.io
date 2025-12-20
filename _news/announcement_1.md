@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-Attend the 18th International Collegiate Snow Sculpture Contest :sparkles: :smile: :snowman:
+I will I will be leading a team of two master's students on behalf of IST to participate in the 18th International Collegiate Snow Sculpture Contest :sparkles: :smile: :snowman:
 
