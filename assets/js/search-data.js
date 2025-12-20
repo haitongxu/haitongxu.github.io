@@ -435,9 +435,9 @@ ninja.data = [{
           description: "Distributed Intelligent decision-making system of Multi Autonomous surface vehicles for sustainable ocean monitoring",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-dewatra",
+          title: 'DEWATRA',
+          description: "focuses on addressing the challenge of global warming and its connection to rising Earth temperatures.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-project-3-with-very-long-name",
