@@ -430,7 +430,42 @@ ninja.data = [{
           section: "News",},{id: "news-i-will-be-leading-a-team-of-two-master-s-students-on-behalf-of-ist-to-participate-in-the-18th-international-collegiate-snow-sculpture-contest-sparkles-smile-snowman",
           title: 'I will be leading a team of two master’s students on behalf of...',
           description: "",
-          section: "News",},{id: "projects-autotugs",
+          section: "News",},{id: "projects-shopera",
+          title: 'SHOPERA',
+          description: "Energy Efficient Safe SHip OPERAtion",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2013_SHOPERA/";
+            },},{id: "projects-marinet",
+          title: 'MARINET',
+          description: "Generic hydraulic power take-off system for wave energy converters",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2015_MARINET/";
+            },},{id: "projects-m-amp-m-ships",
+          title: 'M&amp;amp;M Ships',
+          description: "Manoeuvring &amp; Moored Ships in Ports Physical and numerical modelling",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2016_MMSHIP/";
+            },},{id: "projects-arcwind",
+          title: 'ARCWIND',
+          description: "Adaptation and Implementation of Floating Wind Energy Conversion Technology for the Atlantic Region",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2017_ARCWIND/";
+            },},{id: "projects-navad",
+          title: 'NAVAD',
+          description: "Simulation of manoeuvrability of ships in adverse weather conditions",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2018_NAVAD/";
+            },},{id: "projects-observa-fish",
+          title: 'OBSERVA FISH',
+          description: "Simulation of manoeuvrability of ships in adverse weather conditions",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2018_OBSERVA%20FISH/";
+            },},{id: "projects-routing",
+          title: 'ROUTING',
+          description: "Ship Routing Accounting for Changeable Sea Conditions",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2018_ROUTING/";
+            },},{id: "projects-autotugs",
           title: 'AutoTugs',
           description: "Development of low-cost and open test platform of 3D printed autonomous Tugs",
           section: "Projects",handler: () => {
