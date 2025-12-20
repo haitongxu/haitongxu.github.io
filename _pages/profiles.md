@@ -42,6 +42,13 @@ profiles:
     image: /people/Abbasali-Ghassemzadeh.jpg
 
   - category: PhD Students
+    name: Boyu Han
+    # url: /people/zhangsan/        # 可选：个人页面链接；没有就不加
+    role: PhD 2025-present
+    topic: Obstacle Detection Methods Using Maritime Radar
+    image: /people/prof_pic.jpg
+
+  - category: PhD Students
     name: Fernando Santos
     # url: /people/zhangsan/        # 可选：个人页面链接；没有就不加
     role: PhD 2022-present
@@ -61,7 +68,7 @@ profiles:
     role: Visiting PhD 2025.03-2025.03
     topic: Manoeuvring modelling using mutual information clustering (Supervisor)
     image: /people/rui-tian.png
-    
+
   - category: PhD Students
     name: Zhilin Yang
     # url: /people/zhangsan/        # 可选：个人页面链接；没有就不加
