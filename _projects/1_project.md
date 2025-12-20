@@ -4,7 +4,7 @@ title: AutoOcean
 description: Distributed Intelligent decision-making system of Multi Autonomous surface vehicles for sustainable ocean monitoring
 img: assets/img/autoocean/mit-portuggal.png
 importance: 1
-category: work
+category: PI
 related_publications: true
 ---
 
@@ -22,7 +22,7 @@ Haitong Xu, Centre for Marine Technology and Ocean Engineering (CENTEC), Institu
 Michael Benjamin, Center for Ocean Engineering, Department of Mechanical Engineering, MIT
 
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+<!-- To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
     ---
     layout: page
@@ -88,4 +88,4 @@ Here's the code for the last row of images above:
 </div>
 ```
 
-{% endraw %}
+{% endraw %} -->
