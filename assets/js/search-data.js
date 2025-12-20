@@ -51,13 +51,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/people/";
           },
-        },{id: "nav-autoship",
-          title: "AutoShip",
-          description: "Autonomous Ship Prototype",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/AutoShip/";
-          },
         },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
