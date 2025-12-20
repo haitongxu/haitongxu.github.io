@@ -1,8 +1,9 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2026-01-02 2026-01-08
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Attend the 18th International Collegiate Snow Sculpture Contest :smile: :snow:
+
