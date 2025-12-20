@@ -2,12 +2,9 @@
 layout: page
 title: Recognitions
 permalink: /regcognitions/
-description: Materials for courses you taught. Replace this text with your description.
+description: 
 nav: true
 nav_order: 5
----
-
-Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
 
 ---
 
