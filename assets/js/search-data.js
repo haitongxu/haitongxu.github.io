@@ -432,7 +432,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-autoocean",
           title: 'AutoOcean',
-          description: "with background image",
+          description: "Distributed Intelligent decision-making system of Multi Autonomous surface vehicles for sustainable ocean monitoring",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
