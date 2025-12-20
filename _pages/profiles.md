@@ -28,12 +28,14 @@ profiles:
   
   - name: 张三
     affiliation: 某某大学 · 计算机学院
-    image: zprof_pic.jpg
+    image: prof_pic.jpg
+    image_circular: true # crops the image to make it circular
     content: people/about_einstein2.md
 
   - name: 李四
     affiliation: 某某研究院 · NLP 方向
     image: prof_pic.jpg
+    image_circular: true # crops the image to make it circular
     content: people/about_einstein2.md
 
 
