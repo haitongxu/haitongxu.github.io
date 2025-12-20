@@ -74,8 +74,8 @@ profiles:
     # url: /people/zhangsan/        # 可选：个人页面链接；没有就不加
     role: Visiting PhD 2025.03-2026.03
     topic: Image and video stitching (Supervisor)
-    image: /people/zhilin-yang.png
-
+    image: /people/zhilin_yang.jpg
+    
   - category: PhD Students
     name: Xiaofei Shi
     # url: /people/zhangsan/        # 可选：个人页面链接；没有就不加
