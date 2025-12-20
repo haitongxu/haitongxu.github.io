@@ -28,41 +28,74 @@ nav_order: 7
   
 profiles:
   - category: PhD Students
-    name: 张三
+    name: Haibin Li
     # url: /people/zhangsan/        # 可选：个人页面链接；没有就不加
     role: PhD 2025-present
-    topic: Control barrier functions (co-supervise with XXX)
-    image: /people/prof_pic.jpg
-  - category: PhD Students
-    name: 张三
-    # url: /people/zhangsan/        # 可选：个人页面链接；没有就不加
-    role: PhD 2025-present
-    topic: Control barrier functions (co-supervise with XXX)
-    image: /people/prof_pic.jpg
-  - category: PhD Students
-    name: 张三
-    # url: /people/zhangsan/        # 可选：个人页面链接；没有就不加
-    role: PhD 2025-present
-    topic: Control barrier functions (co-supervise with XXX)
-    image: /people/prof_pic.jpg
-  - category: PhD Students
-    name: 张三
-    # url: /people/zhangsan/        # 可选：个人页面链接；没有就不加
-    role: PhD 2025-present
-    topic: Control barrier functions (co-supervise with XXX)
-    image: /people/prof_pic.jpg
-  - category: PhD Students
-    name: 张三
-    # url: /people/zhangsan/        # 可选：个人页面链接；没有就不加
-    role: PhD 2025-present
-    topic: Control barrier functions (co-supervise with XXX)
-    image: /people/prof_pic.jpg
+    topic: Multi-Ship Intelligent Collision Avoidance System (co-supervise with C. Guedes Soares)
+    image: /people/Haibin_Li.jpg
 
+  - category: PhD Students
+    name: Abbasali Ghassemzadeh
+    # url: /people/zhangsan/        # 可选：个人页面链接；没有就不加
+    role: PhD 2023-present
+    topic: Nonlinear Navigation System for underactuated autonomous surface ships in adverse weather conditions (co-supervise with C. Guedes Soares)
+    image: /people/Abbasali-Ghassemzadeh.jpg
+
+  - category: PhD Students
+    name: Fernando Santos
+    # url: /people/zhangsan/        # 可选：个人页面链接；没有就不加
+    role: PhD 2022-present
+    topic: Infrastructure of experimental study of autonomous vessels performance
+    image: /people/Fernando-Santos.jpg
+
+  - category: PhD Students
+    name: Dongdong Guo
+    # url: /people/zhangsan/        # 可选：个人页面链接；没有就不加
+    role: Visiting PhD 2025.12-2026.12
+    topic: Berthing State Estimation using LiDAR (Supervisor)
+    image: /people/Dongdong-guo.jpg
+
+  - category: PhD Students
+    name: Rui Tian
+    # url: /people/zhangsan/        # 可选：个人页面链接；没有就不加
+    role: Visiting PhD 2025.03-2025.03
+    topic: Manoeuvring modelling using mutual information clustering (Supervisor)
+    image: /people/rui-tian.png
+  - category: PhD Students
+    name: Zhilin Yang
+    # url: /people/zhangsan/        # 可选：个人页面链接；没有就不加
+    role: Visiting PhD 2025.03-2026.03
+    topic: Image and video stitching (Supervisor)
+    image: /people/zhilin-yang.png
+  - category: PhD Students
+    name: Xiaofei Shi
+    # url: /people/zhangsan/        # 可选：个人页面链接；没有就不加
+    role: Visiting Scholar 2025.12-2026.01
+    topic: SAR radar Extraction (Supervisor)
+    image: /people/prof_pic.jpg
 
   - category: MSc Students
-    name: Ana Catarina Costa
+    name: Sara Nunes de Serpa 
+    role: MSc 2025-2026
+    topic: Obstacles avoidance (Supervisor)
+    image: people/prof_pic.jpg
+
+  - category: MSc Students
+    name: Pedro Miguel de Araújo Ferreira Carapeto 
+    role: MSc 2025-2026
+    topic: Autonomous Tug (Supervisor)
+    image: people/prof_pic.jpg
+
+  - category: MSc Students
+    name: Joao Simao 
+    role: MSc 2025-2026
+    topic: Nonlinear Control (Supervisor)
+    image: people/prof_pic.jpg
+
+  - category: MSc Students
+    name: Ana Catarina Costa 
     role: MSc 2020-2021
-    topic: Manoeuvring modelling
+    topic: Manoeuvring modelling (Supervisor)
     image: people/prof_pic.jpg
 
   - category: Former Lab Members
