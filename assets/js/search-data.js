@@ -42,7 +42,7 @@ ninja.data = [{
           description: "Materials for courses you taught. Replace this text with your description.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/teaching/";
+            window.location.href = "/regcognitions/";
           },
         },{id: "nav-people",
           title: "people",
