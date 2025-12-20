@@ -2,7 +2,7 @@
 layout: page
 title: AutoOcean
 description: Distributed Intelligent decision-making system of Multi Autonomous surface vehicles for sustainable ocean monitoring
-img: assets/img/autoocean/mit-portuggal.png
+img: assets/img/autoocean/mit-portuggal.jpg
 importance: 1
 category: PI
 related_publications: true
@@ -18,8 +18,8 @@ The project outcomes are expected to provide a cost-effective, scalable, and int
 ## PT PIs:
 Haitong Xu, Centre for Marine Technology and Ocean Engineering (CENTEC), Instituto Superior Técnico
 
-## MIT PIs:
-Michael Benjamin, Center for Ocean Engineering, Department of Mechanical Engineering, MIT
+<!-- ## MIT PIs:
+Michael Benjamin, Center for Ocean Engineering, Department of Mechanical Engineering, MIT -->
 
 
 <!-- To give your project a background in the portfolio page, just add the img tag to the front matter like so:

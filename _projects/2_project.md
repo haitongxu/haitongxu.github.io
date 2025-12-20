@@ -17,7 +17,7 @@ The primary objective of the proposed project is to achieve a higher level of su
 
 ---
 
-### Working Groups
+## Working Groups
 
 | Number | Title                                                                 | Leader             | Vice-Leader       |
 |:-----:|-----------------------------------------------------------------------|---------------------------|-----------------|
