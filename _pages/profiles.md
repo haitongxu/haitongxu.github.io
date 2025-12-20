@@ -152,12 +152,12 @@ profiles:
        <p>Working at Dalian Martime Unversity</p>
 
   - category: Former Lab Members
-    name: Chenfeng Huang
-    role: Visiting PhD 2021.09-2022.10
-    topic: Formation Control
+    name: Zihao Wang
+    role: Visiting PhD 2020-2021
+    topic: Manoeuvring modelling using SVM
     image: /people/prof_pic.jpg
     more_info: >
-       <p>Working at Dalian Martime Unversity</p>   
+       <p>Working at Shanghai Unversity</p>   
 
 category_order: [PhD Students & Researcher, MSc Students, Former Lab Members]
 
