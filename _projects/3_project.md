@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Autonomous Ship Lab
-description: a A Low-Cost Platform for Hands-On Learning in Marine Autonomy Systems
+description: A Low-Cost Platform for Hands-On Learning in Marine Autonomy Systems
 img: assets/img/PIP.png
 redirect: https://unsplash.com
 importance: 3

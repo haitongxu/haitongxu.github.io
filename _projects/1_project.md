@@ -3,7 +3,7 @@ layout: page
 title: AutoOcean
 description: Distributed Intelligent decision-making system of Multi Autonomous surface vehicles for sustainable ocean monitoring
 img: assets/img/autoocean/autoocean.jpeg
-importance: 1
+importance: 2
 category: PI
 related_publications: true
 ---
