@@ -27,69 +27,70 @@ nav_order: 6
   #     <p>Your City, State 12345</p>
   
 profiles:
-  - category: PhD Students
+  - category: PhD Students & Researcher
     name: Haibin Li
     # url: /people/zhangsan/        # 可选：个人页面链接；没有就不加
     role: PhD 2025-present
     topic: Multi-Ship Intelligent Collision Avoidance System (co-supervise with C. Guedes Soares)
     image: /people/Haibin_Li.jpg
 
-  - category: PhD Students
+  - category: PhD Students & Researcher
     name: Abbasali Ghassemzadeh
     # url: /people/zhangsan/        # 可选：个人页面链接；没有就不加
     role: PhD 2023-present
     topic: Nonlinear Navigation System for underactuated autonomous surface ships in adverse weather conditions (co-supervise with C. Guedes Soares)
     image: /people/Abbasali-Ghassemzadeh.jpg
 
-  - category: PhD Students
+  - category: PhD Students & Researcher
     name: Boyu Han
     # url: /people/zhangsan/        # 可选：个人页面链接；没有就不加
     role: PhD 2025-present
     topic: Obstacle Detection Methods Using Maritime Radar
     image: /people/boyu-han.png
 
-  - category: PhD Students
+  - category: PhD Students & Researcher
     name: Fernando Santos
     # url: /people/zhangsan/        # 可选：个人页面链接；没有就不加
     role: PhD 2022-present
     topic: Infrastructure of experimental study of autonomous vessels performance
     image: /people/Fernando-Santos.jpg
 
-  - category: PhD Students
+  - category: PhD Students & Researcher
     name: Ruilin Liu
     # url: /people/zhangsan/        # 可选：个人页面链接；没有就不加
     role: Visiting PhD 2025-2026
     topic: Adaptive formation control
     image: /people/prof_pic.jpg
 
-  - category: PhD Students
+  - category: PhD Students & Researcher
     name: Dongdong Guo
     # url: /people/zhangsan/        # 可选：个人页面链接；没有就不加
     role: Visiting PhD 2025.12-2026.12
     topic: Berthing State Estimation using LiDAR (Supervisor)
     image: /people/Dongdong-guo.png
-  - category: PhD Students
+    
+  - category: PhD Students & Researcher
     name: Zhiquan Liu
     # url: /people/zhangsan/        # 可选：个人页面链接；没有就不加
     role: Visiting Scholar 2025.12-2026.01
     topic: Nonlinear Pathf following control
     image: /people/prof_pic.jpg
 
-  - category: PhD Students
+  - category: PhD Students & Researcher
     name: Rui Tian
     # url: /people/zhangsan/        # 可选：个人页面链接；没有就不加
     role: Visiting PhD 2025.03-2025.03
     topic: Manoeuvring modelling using mutual information clustering (Supervisor)
     image: /people/rui-tian.png
 
-  - category: PhD Students
+  - category: PhD Students & Researcher
     name: Zhilin Yang
     # url: /people/zhangsan/        # 可选：个人页面链接；没有就不加
     role: Visiting PhD 2025.03-2026.03
     topic: Image and video stitching (Supervisor)
     image: /people/zhilin_yang.jpg
     
-  - category: PhD Students
+  - category: PhD Students & Researcher
     name: Xiaofei Shi
     # url: /people/zhangsan/        # 可选：个人页面链接；没有就不加
     role: Visiting Scholar 2025.12-2026.01
@@ -148,6 +149,6 @@ profiles:
     image: /people/prof_pic.jpg
     bio: Working at Dalian Martime Unversity  
 
-category_order: [PhD Students, MSc Students, Former Lab Members]
+category_order: [PhD Students & Researcher, MSc Students, Former Lab Members]
 
 ---
