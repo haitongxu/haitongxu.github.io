@@ -47,6 +47,12 @@ profiles:
     topic: Data-Driven Control
     image: prof_pic.jpg
 
+  - category: Former Lab Members
+    name: 王五
+    role: MSc 2025-2026
+    topic: Data-Driven Control
+    image: prof_pic.jpg  
 
+category_order: [PhD Students, Researchers, MSc Students, Former Lab Members]
 
 ---
