@@ -34,12 +34,3 @@ I am an ISSC member, IEEE member, Editor board member of [JMSA](https://link.spr
 
 I have published around 65 scientific papers, including 39 papers in international SCI journals, 5 patents, 12  international book chapters, 9 papers in International Conference Proceedings, and has (co)edited 2 books.
 
-
-{% assign m = site.data.metrics %}
-
-<p><b>Citations</b>: {{ m.total_citations }}</p>
-<p><b>h-index</b>: {{ m.h_index }}</p>
-<p><b>i10-index</b>: {{ m.i10_index }}</p>
-<p><small>Last updated: {{ m.updated_at }} ({{ m.status }})</small></p>
-
-
