@@ -37,12 +37,9 @@ I have published around 65 scientific papers, including 39 papers in internation
 
 {% assign m = site.data.metrics %}
 
-<div class="metrics">
-  <p><b>Citations</b>: {{ m.total_citations }}</p>
-  <p><b>h-index</b>: {{ m.h_index }}</p>
-  <p><b>i10-index</b>: {{ m.i10_index }}</p>
-  <p class="metrics-updated">
-    Last updated: {{ m.updated_at }} ({{ m.status }})
-  </p>
-</div>
+<p><b>Citations</b>: {{ m.total_citations }}</p>
+<p><b>h-index</b>: {{ m.h_index }}</p>
+<p><b>i10-index</b>: {{ m.i10_index }}</p>
+<p><small>Last updated: {{ m.updated_at }} ({{ m.status }})</small></p>
+
 
