@@ -33,3 +33,11 @@ I am the Co-Leader of WG5 for the COST Project, [DeWaTra](https://dewatra.eu/), 
 I am an ISSC member, IEEE member, Editor board member of [JMSA](https://link.springer.com/journal/11804), Guest editor in the [JMSE](https://www.mdpi.com/journal/jmse), section chairman of the MARTECH, RENEW conferences.
 
 I have published around 65 scientific papers, including 39 papers in international SCI journals, 5 patents, 12  international book chapters, 9 papers in International Conference Proceedings, and has (co)edited 2 books.
+
+{% raw %}
+{% assign m = site.data.metrics %}
+<p><b>Citations</b>: {{ m.total_citations }}</p>
+<p><b>h-index</b>: {{ m.h_index }}</p>
+<p><b>i10-index</b>: {{ m.i10_index }}</p>
+<small>Last updated: {{ m.updated_at }} ({{ m.status }})</small>
+{% endraw %}
