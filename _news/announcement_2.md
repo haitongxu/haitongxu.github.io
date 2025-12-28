@@ -6,6 +6,8 @@ inline: false
 related_posts: false
 ---
 
+Dr. Jing Chang joins our research group as a visiting scholar. Welcome, Jing!
+
 Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
 
 ---
