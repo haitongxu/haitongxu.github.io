@@ -8,7 +8,7 @@ nav_order: 4
 ---
 
 
-#### Editorial Experience
+#### **Editorial Experience**
 
 <ul>
     <li>Associate Editorial Board Member of the Journal of Marine Science and Application.</li>
@@ -31,7 +31,7 @@ nav_order: 4
 
 ---
 
-#### Conference Organization Committee
+#### **Conference Organization Committee**
 
 <ul>
     <li>Conference Scientific Committee of DEWATRA2026, 25-26 May. 2026, Lisbon, Portugal.</li>
@@ -42,7 +42,7 @@ nav_order: 4
 
 ---
 
-#### Conference Chair
+#### **Conference Chair**
 
 <ul>
     <li>Chairman of Session (Session 3.7 – Modelling and Control 2；Session 3.10 – Vessels ), RENEW 2024， 6th International Conference on Renewable Energies Offshore, Lisbon, Portugal (14-16 May 2024).</li>
@@ -54,7 +54,7 @@ nav_order: 4
 
 ---
 
-#### Journal Review
+#### **Journal Review**
 
 <ul>
     <li>Journal of Ocean Engineering and Science</li>
@@ -83,7 +83,7 @@ nav_order: 4
 
 ---
 
-#### Conference Review
+#### **Conference Review**
 
 <ul>
     <li>MARTECH2026 - 8th International Conference on Maritime Technology and Engineering, 27 -  May 2024, Lisbon, Portugal</li>
