@@ -86,8 +86,9 @@ nav_order: 4
 #### Conference Review
 
 <ul>
-    <li>International Conference on Maritime Technology and Engineering (MARTECH2024), Lisbon, Portugal</li>
-    <li>ICCGS 2023 9th International Conference on Collision and Grounding of Ships and Offshore Structures, 2023, Nantes, France</li>
+    <li>MARTECH2026 - 8th International Conference on Maritime Technology and Engineering, 27 -  May 2024, Lisbon, Portugal</li>
+    <li>MARTECH2024 - 7th International Conference on Maritime Technology and Engineering,  14 - 16 May 2024, Lisbon, Portugal</li>
+    <li>ICCGS2023 - 9th International Conference on Collision and Grounding of Ships and Offshore Structures, 2023, Nantes, France</li>
     <li>IFAC World Congress 2023 (IFAC WC 2023)</li>
     <li>IFAC Conference on Control Applications in Marine Systems, Robotics, and Vehicles (CAMS) </li>
     <li>IEEE International Conference on Robotics and Automation (ICRA)</li>
