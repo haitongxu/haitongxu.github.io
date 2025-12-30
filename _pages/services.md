@@ -22,7 +22,7 @@ nav_order: 4
 
 ---
 
-#### University Service
+#### **University Service**
 
 <ul>
     <li>Vice Program Coordinator of CENTEC training course 2025, Lisbon, Portugal.</li>
